@@ -1,0 +1,90 @@
+Hey yall the zookeeper is waking the animals
+------ The zookeeper is waking the animals up! ------
+Carla the cat has woken up!
+Charlie the cat has woken up!
+Leonard the lion has woken up!
+Leah the lion has woken up!
+Tammy the tiger has woken up!
+Tyler the tiger has woken up!
+Darius the dog has woken up!
+Darla the dog has woken up!
+Wendy the wolf has woken up!
+Willis the wolf has woken up!
+Henry the hippo has woken up!
+Hillary the hippo has woken up!
+Remy the rhino has woken up!
+Rachel the rhino has woken up!
+Eloise the elephant has woken up!
+Elbert the elephant has woken up!
+Yo the zookeeper is making the animals yell
+------ The zookeeper is giving a roll call! ------
+Carla the cat is meowing!
+Charlie the cat is meowing!
+Leonard the lion is roaring!
+Leah the lion is roaring!
+Tammy the tiger is roaring!
+Tyler the tiger is roaring!
+Darius the dog is barking!
+Darla the dog is barking!
+Wendy the wolf is howling!
+Willis the wolf is howling!
+Henry the hippo is trumpeting!
+Hillary the hippo is trumpeting!
+Remy the rhino is trumpeting!
+Rachel the rhino is trumpeting!
+Eloise the elephant is trumpeting!
+Elbert the elephant is trumpeting!
+The zookeeper is now feeding the animals
+------ The zookeeper is feeding the animals! ------
+Carla the cat is eating!
+Charlie the cat is eating!
+Leonard the lion tried to eat the Zookeeper!
+Leah the lion is eating!
+Tammy the tiger is eating!
+Tyler the tiger is eating!
+Darius the dog is lapping up their food!
+Darla the dog is lapping up their food!
+Wendy the wolf is scarfing their food!
+Willis the wolf is scarfing their food!
+Henry the hippo is slurping their food!
+Hillary the hippo is slurping their food!
+Remy the rhino is slurping their food!
+Rachel the rhino is slurping their food!
+Eloise the elephant is slurping their food!
+Elbert the elephant is slurping their food!
+The zookeeper is playing with all the animals come watch
+------ The zookeeper is playing with the animals! ------
+Carla the cat trying to cuddle!
+Charlie the cat trying to cuddle!
+Leonard the lion is prowling!
+Leah the lion is prowling!
+Tammy the tiger is prowling!
+Tyler the tiger is prowling!
+Darius the dog is running around and wagging their tail!
+Darla the dog is running around and wagging their tail!
+Wendy the wolf is roaming around!
+Willis the wolf is roaming around!
+Henry the hippo is sniffing around!
+Hillary the hippo is sniffing around!
+Remy the rhino is sniffing around!
+Rachel the rhino is sniffing around!
+Eloise the elephant is sniffing around!
+Elbert the elephant is sniffing around!
+Its time for you to leave goodbye
+------ The zookeeper is putting the animals to sleep. ------
+Carla the cat has gone to sleep!
+Charlie the cat has gone to sleep!
+Leonard the lion has gone to sleep!
+Leah the lion has gone to sleep!
+Tammy the tiger has gone to sleep!
+Tyler the tiger has gone to sleep!
+Darius the dog has gone to sleep!
+Darla the dog has gone to sleep!
+Wendy the wolf has gone to sleep!
+Willis the wolf has gone to sleep!
+Henry the hippo has gone to sleep!
+Hillary the hippo has gone to sleep!
+Remy the rhino has gone to sleep!
+Rachel the rhino has gone to sleep!
+Eloise the elephant has gone to sleep!
+Elbert the elephant has gone to sleep!
