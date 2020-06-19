@@ -1,5 +1,5 @@
 
-# OOAD project 1, The Friendly Zoo
+# OOAD Project 1 - The Friendly Zoo
 
 **Team Members**: Jake Andrus and Zora Watters  
 **Running code**: Our main method is located in the Zookeeper class! <br/>
